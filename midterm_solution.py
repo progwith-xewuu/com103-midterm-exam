@@ -169,9 +169,9 @@ while i < len(expenses):
     i += 1
 
 print("-"*66)
-print(f"{'Total Spent':<30}: P{total_spent:>10}0")
-print(f"{'Remaining':<30}: P{remaining:>10}0")
-print(f"{'Status':<30}: {status}")
+print(f"{'Total Spent':<31}: P{total_spent:>10}0")
+print(f"{'Remaining':<31}: P{remaining:>10}0")
+print(f"{'Status':<31}: {status}")
 print("="*66)
 
 #MANDOLADO, ZYLK ALLEN P.
